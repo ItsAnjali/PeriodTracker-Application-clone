@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-periodtrackerapp-dev-b58b7-authRole",
+      "UnauthRoleArn": "arn:aws:iam::026090542643:role/amplify-periodtrackerapp-dev-b58b7-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::026090542643:role/amplify-periodtrackerapp-dev-b58b7-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-periodtrackerapp-dev-b58b7-deployment",
+      "UnauthRoleName": "amplify-periodtrackerapp-dev-b58b7-unauthRole",
+      "StackName": "amplify-periodtrackerapp-dev-b58b7",
+      "StackId": "arn:aws:cloudformation:us-east-1:026090542643:stack/amplify-periodtrackerapp-dev-b58b7/35b54320-d9be-11ef-9d5d-0e7f81d39cf7",
+      "AmplifyAppId": "d3sdmggnyiin9k"
+    },
+    "categories": {
+      "api": {
+        "periodtrackerapp": {}
+      }
+    }
+  }
+}
