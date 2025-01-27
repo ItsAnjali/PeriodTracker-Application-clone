@@ -22,14 +22,14 @@ const AuthScreen = () => {
         placeholder="Username"
         value={username}
         onChangeText={setUsername}
-        style={styles.inputField} // Applying style
+        style={styles.inputField} 
       />
       <TextInput
         placeholder="Password"
         value={password}
         onChangeText={setPassword}
         secureTextEntry
-        style={styles.inputField} // Applying style
+        style={styles.inputField} 
       />
       <Button title="Sign In" onPress={handleSignIn} style={styles.button} />
     </View>
