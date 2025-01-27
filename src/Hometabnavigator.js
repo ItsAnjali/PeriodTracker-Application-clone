@@ -5,7 +5,6 @@ import PeriodTracker from './components/PeriodTracker';
 import HealthInsights from './components/HealthInsights';
 import { View, Text, StyleSheet } from 'react-native';
 
-// Placeholder components for Explore, Chats, and Login screens
 const Explore = () => (
   <View style={styles.centeredView}>
     <Text>Explore Page</Text>
@@ -24,7 +23,6 @@ const Login = () => (
   </View>
 );
 
-// Create Bottom Tab Navigator
 const Tab = createBottomTabNavigator();
 
 const HomeTabNavigator = () => {
